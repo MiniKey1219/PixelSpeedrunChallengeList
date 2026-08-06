@@ -109,22 +109,24 @@ export default {
                     Next to level's names will show the difficulty of the level. More information about difficulty can be found in the difficulties tab.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        The Unverified Levels List
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The ULL is for levels with some amount of effort put into them, that have not been verified.
+                        You can click on a level's name to bring up the level's Info Tab, similar to how you can in The List.
+                        The level's info tab will show a picture of the entire level, along with the share code in small font at the bottom of the screen.
                     </p>
+                     <h3>Rules</h3>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        To have a level be considered beaten, you must have either:
+                        (1) a picture of the final time, along with the player in the correct starting position
+                        (2), have a video of you beating the level. 
+                        Credible players can claim achievements, and upload videos later, while still getting list points. 
+                        Pause abuse is not allowed. 
+                        Rules for levels for the list are as follows: The List: 
+                        All levels must be beaten legitimately, along with not being of poor quality. 
+                        Some exceptions to this rule exist for historical reasons, such as Challenge 6; 
+                        ULL: All levels must have at least some amount of effort put in, and not be absolute pure garbage.
                     </p>
                 </div>
             </div>
