@@ -98,12 +98,15 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Info</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The List
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                    Levels on the list have all been verified legitimately. The levels are ranked from hardest to easiest, with the lower number meaning a harder level.
+                    Clicking on a level's name will bring up the Info Tab of the level. From here, you can see who has beaten the level, a video of the level's completion (If available), and the level's code.
+                    You can access the level's code by scrolling to the bottom of the page, copying the text in the small font, and pasting it into the share code area in the custom levels tab in the original game.
+                    Next to level's names will show the difficulty of the level. More information about difficulty can be found in the difficulties tab.
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
