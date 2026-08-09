@@ -5,6 +5,7 @@
     "creators": ["Inferno"],
     "verifier": "Inferno",
     "verification": "N/A",
+    "imgpath": "../levelimages/normal/Discoveryimg.png",
     "percentToQualify": "100",
     "password": "30.79",
     "records": [

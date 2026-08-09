@@ -40,7 +40,10 @@ export default {
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
-                    <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
+                    <!--below this was the thing for embedding the verification video, commented out in case yall needed to put it back-->
+                    <!--<iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>-->
+                    <!--below this is the lvl image embed thing-->
+                    <img :src="level?.imgpath" :alt="level?.imgpath">
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
