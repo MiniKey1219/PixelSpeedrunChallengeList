@@ -7,13 +7,25 @@
     "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
     "imgpath": "../levelimages/normal/AmongUsimg.png",
     "percentToQualify": "100",
-    "password": "19.93",
+    "password": "19.33",
     "records": [
+         {
+            "user": "Carrot",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
+            "percent": 100,
+            "time": 21.70
+        },
+        {
+            "user": "DomiNite",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
+            "percent": 100,
+            "time": 32.16
+        },
         {
             "user": "Inferno",
             "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
             "percent": 100,
-            "time": 37.98
+            "time": 19.33
         }
     ]
 }
